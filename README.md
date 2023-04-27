@@ -11,7 +11,7 @@ This repository has solution of UNIX lab assignments
 - To make it executable => chmod +x myscript.sh
 - To run it => ./myscript.sh
 
-## To run perl
+## To run perl script
 
 - Open a terminal window.
 - Change to the directory where your Perl file is located
