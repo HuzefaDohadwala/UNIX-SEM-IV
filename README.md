@@ -17,3 +17,8 @@ This repository has solution of UNIX lab assignments
 - Change to the directory where your Perl file is located
 - To run it => perl filename.pl
 
+## To run awk,grep,sed commands
+
+- Open a terminal window.
+- Type the respective commands
+
